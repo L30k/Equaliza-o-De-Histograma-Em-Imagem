@@ -1,0 +1,1 @@
+# Equaliza-o-De-Histograma-Em-Imagem
